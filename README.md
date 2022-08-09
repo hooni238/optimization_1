@@ -43,5 +43,10 @@
 به عنوان ورودی در خط اول نام فایل به عنوان مقدار متغیر file_name وارد شود. خانه‌های بعدی کد به ترتیب باید اجرا شود.
 
 ## ⛏️ وابستگی‌ها <a name = "tech_stack"></a>
-لیست تمام زبان‌های برنامه‌نویسی، پکیج‌ها و کتاب‌خانه‌های استفاده شده
-
+### python
+### numpy
+### sklearn
+### time
+### matplotlib.pyplot
+### mpl_toolkits.mplot3d
+### matplotlib.ticker 
